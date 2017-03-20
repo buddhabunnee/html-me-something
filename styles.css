@@ -4,6 +4,15 @@ body {
 	color: #FFFFFF;
 }
 
+a:link {
+	color: pink;
+	text-decoration: none;
+}
+
+a:hover {
+	color: white;
+}
+
 #centerwrap h1 {
 	text-align: center;
 	font-family: 'Shrikhand', cursive;
