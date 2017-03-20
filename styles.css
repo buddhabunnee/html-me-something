@@ -10,7 +10,8 @@ a:link {
 }
 
 a:hover {
-	color: white;
+	color: #640a1c;
+	background-color: #FFFFFF;
 	text-decoration: underline;
 }
 
