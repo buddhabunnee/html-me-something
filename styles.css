@@ -11,6 +11,7 @@ a:link {
 
 a:hover {
 	color: white;
+	text-decoration: underline;
 }
 
 #centerwrap h1 {
